@@ -1,0 +1,32 @@
+local t_music = {
+	[1001]={path="music/main_scene_01.mp3"},
+	[1002]={path="music/main_scene_02.mp3"},
+	[1010]={path="music/chapter_scene_01.mp3"},
+	[1080]={path="music/copy_scene_01.mp3"},
+	[1081]={path="music/copy_scene_02.mp3"},
+	[1082]={path="music/copy_scene_03.mp3"},
+	[1083]={path="music/copy_scene_04.mp3"},
+	[1200]={path="music/battle_scene_01.mp3"},
+	[1201]={path="music/battle_scene_02.mp3"},
+	[1202]={path="music/battle_scene_03.mp3"},
+	[1203]={path="music/battle_scene_04.mp3"},
+	[1400]={path="music/battle_win.mp3"},
+	[1410]={path="music/battle_lose.mp3"},
+	[1420]={path="music/compose_equip.mp3"},
+	[1430]={path="music/role_levelup.mp3"},
+	[1440]={path="music/use_potion.mp3"},
+	[1450]={path="music/equip_levelup.mp3"},
+	[1460]={path="music/battle_injury_01.mp3"},
+	[1470]={path="music/battle_injury_02.mp3"},
+	[1480]={path="music/battle_skill_attack_01.mp3"},
+	[1490]={path="music/battle_skill_attack_02.mp3"},
+	[1500]={path="music/battle_anger_attack_01.mp3"},
+	[1510]={path="music/battle_anger_attack_02.mp3"},
+	[1520]={path="music/battle_normal_attack_01.mp3"},
+	[1530]={path="music/battle_normal_attack_02.mp3"},
+	[1601]={path="music/arena_ready.mp3"},
+	[1602]={path="music/arena_pvp.mp3"},
+	[1701]={path="music/login.mp3"}
+}
+
+return t_music
